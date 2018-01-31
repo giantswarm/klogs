@@ -10,7 +10,7 @@ As a result, klogs returns all log entries that are available.
 Set an alias:
 
 ```nohighlight
-alias klogs="python kubelogctl.py"
+alias klogs="python /path/to/klogs.py"
 ```
 
 Then:
